@@ -62,9 +62,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kashy0710&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kashy0710&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=kashy0710&theme=tokyonight&date_format=j%20M%5B%20Y%5D&v=1" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashy0710&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
