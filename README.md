@@ -8,23 +8,23 @@
 ---
 
 ## 🔭 I’m currently working on  
-- **Awesome Project** → [GitHub Repo](https://github.com/yourprojectlink)  
+- **Awesome Project** → [GitHub Repo](https://github.com/kashy0710/yourproject)
 
 ## 👯 I’m looking to collaborate on  
 - **Open Source Contributions**  
-- **Full-Stack Projects**  
+- **Full-Stack Projects**
 
 ## 🤝 I’m looking for help with  
-- **Advanced React + Node.js scaling**  
+- **Advanced React + Node.js scaling**
 
 ## 🌱 I’m currently learning  
-- **NestJS**, **Next.js**, **TypeScript**  
+- **NestJS**, **Next.js**, **TypeScript**
 
 ## 💬 Ask me about  
-- **React, Vue, GSAP, Node.js**  
+- **React, Vue, GSAP, Node.js**
 
 ## 📫 How to reach me  
-- **Email:** example@gmail.com  
+- **Email:** your.email@example.com  
 
 ## 👨‍💻 All of my projects are available at  
 - [My Portfolio](https://yourportfoliolink.com)  
@@ -57,12 +57,15 @@
 ---
 
 ### 📊 GitHub Stats:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kashy0710&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashy0710&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kashy0710&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashy0710&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
